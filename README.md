@@ -1,5 +1,3 @@
-# Paul Murithi
-
 Backend-focused software engineer (in progress)
 BSc IT @ MKU, Kenya
 
