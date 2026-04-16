@@ -1,112 +1,57 @@
 # Paul Murithi
 
-Backend-leaning software engineer in the making. Current Bsc IT at MKU, Meru Kenya.
+Backend-focused software engineer (in progress)
+BSc IT @ MKU, Kenya
 
-Currently focused on **building production-style systems**, learning how real software handles **transactions, failures, concurrency, and scale**.
-
-Right now I'm deep in a long-term engineering roadmap focused on **FinTech infrastructure and distributed backend systems.**
+Building systems that deal with **payments, transactions, and real-world failure cases**.
 
 ---
 
-## What I'm Building Right Now
+## Current Project
 
 ### Sim-Pesa
 
-A **local M-Pesa payment gateway simulator** for developers.
+Local **M-Pesa payment gateway simulator** for testing integrations.
 
-It replicates the asynchronous callback flows of real mobile money systems so developers can test integrations locally.
+**Focus:**
 
-Key ideas behind it:
-
-* webhook ingestion pipelines
-* concurrency control
-* transactional integrity
+* async callbacks (webhooks)
 * idempotent payment processing
-* queue-based background processing
+* transactional integrity
+* queue-based background jobs
 
-Stack:
-
-* **Node.js + TypeScript**
-* **PostgreSQL**
-* **Redis + BullMQ**
-* **Docker**
-* **Pino structured logging**
+**Stack:**
+Node.js · TypeScript · PostgreSQL · Redis · BullMQ · Docker
 
 ---
 
-## Engineering Interests
+## Interests
 
-Most of my learning revolves around backend systems like:
-
-* transactional data systems
 * payment infrastructure
-* distributed system patterns
-* asynchronous job processing
-* API design
-* observability and debugging
+* distributed systems
+* transactional data systems
+* async processing & queues
+* API design & observability
 
 ---
 
-## Current Tech Stack
+## 🛠 Tech
 
-**Languages**
-
-* TypeScript
-* C++
-* SQL
-* Python
-* Golang
-
-**Backend**
-
-* Node.js
-* FastAPI
-* PostgreSQL
-* Redis
-* BullMQ
-
-**Frontend**
-
-* React
-* Tailwind
-* HTMX
-
-**DevOps / Tooling**
-
-* Docker
-* GitHub Actions
-* Linux
+**Languages:** TypeScript, Go, Python, C++, SQL
+**Backend:** Node.js, FastAPI, PostgreSQL, Redis
+**Frontend:** React, Tailwind, HTMX
+**DevOps:** Docker, GitHub Actions, Linux
 
 ---
 
-## What I'm Working Toward
+## Direction
 
-Over the next couple years I'm gradually moving toward:
-
-* FinTech backend engineering
-* distributed payment systems
-* cloud-native infrastructure
-* eventually adding **Go** for high-performance services
-
-The long-term goal is to become an engineer who can **design and own backend systems end-to-end.**
-
----
-
-## Selected Repositories
-
-You'll mostly find projects here that explore:
-
-* system architecture
-* payment flows
-* backend infrastructure
-* real-world integration patterns
-
-I try to keep repos documented with the reasoning behind design decisions, not just the code.
+Working toward **FinTech + distributed backend systems**,
+with a focus on designing and owning systems end-to-end.
 
 ---
 
 ## Contact
 
-If you're building interesting backend systems or FinTech tools, feel free to reach out.
-
-GitHub Issues and discussions are always welcome.
+Open to discussions around backend systems & FinTech.
+Feel free to reach out or open an issue.
