@@ -3,8 +3,6 @@ BSc IT @ MKU, Kenya
 
 Building systems that deal with **payments, transactions, and real-world failure cases**.
 
----
-
 ## Current Project
 
 ### Sim-Pesa
@@ -21,8 +19,6 @@ Local **M-Pesa payment gateway simulator** for testing integrations.
 **Stack:**
 Node.js · TypeScript · PostgreSQL · Redis · BullMQ · Docker
 
----
-
 ## Interests
 
 * payment infrastructure
@@ -31,23 +27,17 @@ Node.js · TypeScript · PostgreSQL · Redis · BullMQ · Docker
 * async processing & queues
 * API design & observability
 
----
-
-## 🛠 Tech
+## Tech
 
 **Languages:** TypeScript, Go, Python, C++, SQL
 **Backend:** Node.js, FastAPI, PostgreSQL, Redis
 **Frontend:** React, Tailwind, HTMX
 **DevOps:** Docker, GitHub Actions, Linux
 
----
-
 ## Direction
 
 Working toward **FinTech + distributed backend systems**,
 with a focus on designing and owning systems end-to-end.
-
----
 
 ## Contact
 
